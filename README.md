@@ -24,6 +24,10 @@ $ pip3 install -r requirements.txt
 $ python3 train_mask_detector.py --dataset dataset
 ```
 
+<p align="center">
+  <img src="Screenshot_2.png">
+</p>
+
 2. To detect face masks in an image type the following command:
 
 ```
